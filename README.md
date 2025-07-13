@@ -25,6 +25,7 @@ A modern Android application for movie enthusiasts that combines movie discovery
 - **Markdown Support**: Rich text formatting in chat messages
 - **Session Management**: Persistent chat sessions with delete functionality
 - **Real-time Communication**: Instant responses with loading indicators
+- **Access AI agent**: <a href="https://github.com/george07-t/Movie-Mania-Agent.git">Github Repository</a>
 
 ## 📱 Screenshots
 

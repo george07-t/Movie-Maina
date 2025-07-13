@@ -1,6 +1,6 @@
 # 🎬 Movie Mania
 
-A modern Android application for movie enthusiasts that combines movie discovery with intelligent chat functionality. Built with Java and powered by The Movie Database (TMDB) API.
+A modern Android application for movie enthusiasts that combines movie discovery with intelligent chat functionality. Built with Java and powered by The Movie Database (TMDB) API and FastAPI with LangGraph AI agent integration.
 
 ![Movie Mania Banner](https://img.shields.io/badge/Platform-Android-green) ![API Level](https://img.shields.io/badge/API-26+-blue) ![Language](https://img.shields.io/badge/Language-Java-orange)
 

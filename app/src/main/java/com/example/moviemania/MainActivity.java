@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -36,6 +37,12 @@ public class MainActivity extends AppCompatActivity {
 
         setupAdapter();
         loadMovieData();
+        // In onCreate method
+        Button buttonChat = findViewById(R.id.buttonChat);
+        buttonChat.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, ChatActivity.class);
+            startActivity(intent);
+        });
     }
 
     private void setupAdapter(){

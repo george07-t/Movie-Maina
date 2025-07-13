@@ -48,7 +48,8 @@ dependencies {
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
     coreLibraryDesugaring(libs.desugar.jdk.libs)
-
+    implementation(libs.core)
+    implementation(libs.html)
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
 

@@ -30,10 +30,7 @@ A modern Android application for movie enthusiasts that combines movie discovery
 
 | Main Screen | Movie Details | Favorites | Chat Interface |
 |-------------|---------------|-----------|----------------|
-| <img src="screenshots/main_screen.png" width="200" alt="Main Screen"/> | <img src="screenshots/movie_details.png" width="200" alt="Movie Details"/> | <img src="screenshots/favorites.png" width="200" alt="Favorites"/> | <img src="screenshots/chat_interface.png" width="200" alt="Chat Interface"/> |
-| Browse upcoming movies with grid layout | Detailed movie information with recommendations | Your saved favorite movies | AI-powered movie assistant chat |
-
-> **Note**: Screenshots will be added soon. The app features a modern Material Design interface with smooth animations and intuitive navigation.
+| <img src="https://github.com/user-attachments/assets/f6f6d40f-a9e7-4f91-ac66-066c25196d62" height="500" width="200" alt="Main Screen"/> | <img src="https://github.com/user-attachments/assets/9958ca90-72de-4ab0-9926-049bb8bcbb02" height="500" width="200" alt="Movie Details"/> | <img src="https://github.com/user-attachments/assets/0cba7d17-6134-42bc-bf42-84df6cb2599c" height="500" width="200" alt="Favorites"/> | <img src="https://github.com/user-attachments/assets/b56e8043-1a7c-4b4e-9a73-36c5b280ba9b" height="500" width="200" alt="Chat Interface"/> |
 
 ## 🛠️ Technology Stack
 
